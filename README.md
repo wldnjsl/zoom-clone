@@ -1,2 +1,3 @@
 # study
-study 기록
+
+1. React
