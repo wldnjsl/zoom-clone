@@ -1,3 +1,3 @@
-# study
+# Noom
 
-1. React
+Zoom Clone using WebRTC and Websockets.
